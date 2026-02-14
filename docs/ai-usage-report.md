@@ -6,11 +6,11 @@ I used ChatGPT (Codex) to assist with styling my portfolio and selecting appropr
 
 It also helped me implement the greeting feature by introducing the Date().getHours() method to retrieve the current time. I then used this value within conditional (if–else) statements to dynamically display an appropriate greeting message based on the time of day.
 
-Overall, the tool primarily supported me in the design and CSS aspects of the assignment while also assisting with some JavaScript logic.
-
 I also used AI to help improve the structure and organization of my code to ensure a seamless experience for anyone reviewing or reading the project. It provided suggestions on how to properly section the HTML layout and separate styling and functionality into clear, logical files, which improved readability and maintainability.
 
 Additionally, AI assisted me in refining and structuring my documentation. It helped me present my README, technical documentation, and AI usage report in a clear, professional format that aligns with academic expectations while still accurately reflecting my own understanding and implementation.
+
+Overall, the tool primarily supported me in the design and CSS aspects of the assignment while also assisting with some JavaScript logic.
 
 ## Benefits & Challenges
 
