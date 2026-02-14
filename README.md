@@ -4,8 +4,8 @@
 A responsive personal portfolio featuring an About section, Projects, Achievements, and a Contact form. The site uses HTML, CSS, and JavaScript with a modern design and a time-based greeting.
 
 Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 
 ## Features
@@ -26,7 +26,7 @@ Optional:
 Use a local development server such as VS Code Live Server for automatic reload during development.
 
 ## AI Use Summary
-OpenAI Codex (ChatGPT) was used primarily to support specific parts of the development process, including styling suggestions in CSS and guidance for implementing the time-based greeting feature in JavaScript. The core structure and overall implementation were developed independently, with AI serving as a supplementary tool for refinement and clarification. More details are available in docs/ai-usage-report.md.
+OpenAI Codex (ChatGPT) was used primarily to support specific parts of the development process, including styling in CSS and guidance for implementing the time-based greeting feature in JavaScript. The core structure and overall implementation were developed independently, with AI serving as a supplementary tool for refinement and clarification. More details are available in docs/ai-usage-report.md.
 
 ## Live Deployment
 Not deployed yet. 
